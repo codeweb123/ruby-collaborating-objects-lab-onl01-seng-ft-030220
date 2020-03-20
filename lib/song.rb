@@ -22,4 +22,5 @@ class Song
     new_song.artist_name = artist # assign it an artist
     new_song # return the instance
   end
+  # Artist - Song Name - Genre.mp3
 end
